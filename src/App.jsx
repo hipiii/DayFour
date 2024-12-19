@@ -27,6 +27,7 @@ function App() {
       name: 'Confirmpassword',
       type: 'password',
       placeholder: 'Enter your confirmpassword'
+    
     },
   ]
 
